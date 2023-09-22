@@ -1,2 +1,2 @@
-biosteam>=3.38.3
+biosteam>=2.38.3
 biorefineries
