@@ -1,4 +1,4 @@
 biosteam>=2.44.1
 thermosteam>=0.42.1
-plastics
+plastics>=0.1.1
 biorefineries
