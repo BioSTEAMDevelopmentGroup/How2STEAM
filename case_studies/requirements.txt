@@ -1,0 +1,3 @@
+biosteam>=2.46.0
+thermosteam>=0.44.0
+biorefineries>=2.31.0
