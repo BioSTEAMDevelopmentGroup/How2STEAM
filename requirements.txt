@@ -1,3 +1,4 @@
 biosteam>=2.51.4
 thermosteam>=0.51.5 
 biorefineries>=2.34.0
+scikit-learn
