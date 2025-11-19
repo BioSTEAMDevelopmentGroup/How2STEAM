@@ -1,4 +1,4 @@
-biosteam>=2.51.4
-thermosteam>=0.51.5 
-biorefineries>=2.34.4
+biosteam>=2.52.18
+thermosteam>=0.52.17
+biorefineries>=2.34.10
 scikit-learn
