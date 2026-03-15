@@ -1,4 +1,5 @@
 biosteam>=2.52.18
 thermosteam>=0.52.17
 biorefineries>=2.34.10
+cuwp>=0.0.3
 scikit-learn
