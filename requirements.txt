@@ -1,5 +1,5 @@
-biosteam>=2.52.18
-thermosteam>=0.52.17
+biosteam>=2.54.0
+thermosteam>=0.54.0
 biorefineries>=2.34.10
 cuwp>=0.0.3
 scikit-learn
